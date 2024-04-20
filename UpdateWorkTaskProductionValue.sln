@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateWorkTaskProductionValue", "UpdateWorkTaskProductionValue\UpdateWorkTaskProductionValue.csproj", "{43974492-8278-481A-AC9F-6E38D5623502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43974492-8278-481A-AC9F-6E38D5623502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43974492-8278-481A-AC9F-6E38D5623502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43974492-8278-481A-AC9F-6E38D5623502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43974492-8278-481A-AC9F-6E38D5623502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52372746-1DD4-419D-AB5D-3C3E32D7A3FD}
+	EndGlobalSection
+EndGlobal
